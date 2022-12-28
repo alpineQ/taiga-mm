@@ -1,0 +1,11 @@
+{
+    "mattermost_token": "",
+    "usernames": {
+        "taiga_username1": "mattermost_username1",
+        "taiga_username2": "mattermost_username2"
+    },
+    "host": "0.0.0.0",
+    "port": 8080,
+    "language": "en",
+    "mattermost_server": ""
+}
